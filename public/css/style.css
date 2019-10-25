@@ -1,0 +1,27 @@
+*{
+	border-radius: 0 !important;
+}
+.container{
+	padding-top: 100px;
+
+}
+.table{
+	margin-top: 50px;
+}
+i.glyphicon.glyphicon-edit {
+    color: #000;
+    font-size: 1.5em;
+}
+i.glyphicon.glyphicon-trash{
+	 color: #000;
+    font-size: 1.5em;
+
+}
+/*--------------------------------*/
+#checkusername{
+	border:solid 2px #50b733
+}
+#status{
+	padding-top:5px;
+	color:red
+}
